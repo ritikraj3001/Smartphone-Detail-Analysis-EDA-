@@ -6,7 +6,7 @@ Overview: This notebook explores a dataset containing detailed attributes of var
 
 Key Insights (Assumed from Typical EDA Flow):
 Brand Trends: Visualizations likely reveal which smartphone brands dominate specific market segments (e.g., budget vs flagship).
-Battery vs Performance: A heatmap or scatter plot could illustrate how battery capacity correlates with performance or price.
+Battery vs Performance: A Countplot and bar plot could illustrate how battery capacity correlates with performance or price.
 Price Distribution: Histograms and box plots might show pricing outliers and typical ranges across different brands.
 Feature Impact: Regression plots may highlight how RAM, storage, or camera specs influence pricing or user preference.
 Top Performers: Bar charts or rankings could identify the best value-for-money phones or most balanced options.
