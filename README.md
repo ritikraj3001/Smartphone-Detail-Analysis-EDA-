@@ -1,6 +1,6 @@
 # Smartphone-Details-Analysis-EDA-
 
-Project Title: Exploratory Data Analysis of Smartphone Market Trends
+Project Title: Exploratory Data Analysis of Smartphone_Details_Analysis.
 
 Overview: This notebook explores a dataset containing detailed attributes of various smartphones, focusing on uncovering insights from features like price, brand, battery capacity, performance benchmarks, and more. It employs Python libraries such as pandas, seaborn, and matplotlib to manipulate data and visualize trends.
 
