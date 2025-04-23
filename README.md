@@ -1,1 +1,1 @@
-# Smartphone-Detail-Analysis-EDA-
+# Smartphone-Details-Analysis-EDA-
